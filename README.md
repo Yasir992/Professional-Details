@@ -9,13 +9,15 @@
 ---
 
 ### 🧑‍💻 About Me
-
-- 🔭 Currently working as a **Backend Developer** at **AttockIT**, building internal enterprise systems with **Django**
-- 🛠️ I design and build full-stack ERP-style systems integrated with **Oracle HRMS** and **PostgreSQL**
-- 🌱 Currently exploring **AI Engineering** — expanding into ML/LLM-based systems
+ 
+- 🔭 Currently working as a **Backend Developer** at **AttockIT**, designing and building end-to-end internal enterprise systems used in daily business operations
+- 🛠️ I build full-stack ERP-style Django applications integrated with **Oracle HRMS**, **PostgreSQL**, and automated approval workflows
+- ⚙️ Hands-on experience customizing and implementing **Odoo ERP** — modules, automation, and business process configuration using Python & Odoo Studio
+- 🎯 **Goal:** Transitioning from backend development into **AI Engineering** — building intelligent, production-grade systems powered by ML/LLMs
+- 🌱 Currently strengthening my foundations in AI/ML to bridge backend engineering with applied AI development
 - 📫 Reach me at: **ejazyasir1974501@gmail.com**
-
 ---
+
 
 ## 🏗️ Systems I've Built
 
@@ -83,23 +85,41 @@ Centralized, Oracle HRMS-integrated employee extension management system. Auto-d
 Automated vehicle maintenance tracking system that reads driver emails, extracts work permit details, and logs filter/oil change records — replacing manual paper registers.
 
 **Screenshots:**
-
+<p align="center"><i>This is the main dashboard. The top cards display form statistics, while the email section shows data from the database related to work permit requests. The bottom section displays the most recently created work permits.</i></p>
 <p align="center">
-  <img src="screenshots/bowzer-1.png" width="600" alt="Bowzer Tracking Dashboard" />
+  <img src="screeshots/bowzer1.png" width="600" alt="Bowzer Tracking Dashboard" />
 </p>
-
+<p align="center"><i>This module is used to create Work Permit requests. Users enter all the required information, and the system generates both the Work Permit form and the related email automatically.</i></p>
 <p align="center">
-  <img src="screenshots/bowzer-2.png" width="600" alt="Maintenance Log" />
+  <img src="screeshots/bowzer2.png" width="600" alt="Maintenance Log" />
+</p>
+<p align="center"><i>This module reads received emails from the email server based on the subject. It extracts the Work Permit details and creates a draft automatically. The draft can then be completed with additional information and submitted into the workflow.</i></p>
+<p align="center">
+  <img src="screeshots/bowzer3.png" width="600" alt="Maintenance Log" />
+</p>
+<p align="center"><i>This module displays all created Work Permits. Filters are available at the top, while the list below shows the permit details and its current workflow stage.</i></p>
+<p align="center">
+  <img src="screeshots/bowzer4.png" width="600" alt="Maintenance Log" />
+</p>
+<p align="center"><i>This module shows the complete workflow history, including user actions, comments, approvals, timestamps, and other workflow details.</i></p>
+<p align="center">
+  <img src="screeshots/bowzer5.png" width="600" alt="Maintenance Log" />
 </p>
 
 ---
 
 ### 4. Odoo ERP Implementation
-
-Customized Odoo ERP modules using Python & Odoo Studio to automate and streamline core business workflows across departments.
-
+ 
+Implemented and customized Odoo ERP to automate core business processes across departments — reducing manual work and standardizing operations on a single platform.
+ 
+**What I did:**
+- Customized existing Odoo modules and built new functionality using **Odoo Studio** and **Python**
+- Automated recurring business workflows that were previously handled manually
+- Configured access rights, approval steps, and business rules to match internal company processes
+- Provided ongoing support and issue resolution for live ERP operations
 **Screenshots:**
-
+ 
+<p align="center"><i>Customized Odoo module configured to match internal business workflow requirements.</i></p>
 <p align="center">
   <img src="screenshots/odoo-1.png" width="600" alt="Odoo Custom Module" />
 </p>
