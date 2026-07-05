@@ -25,21 +25,25 @@ Digitized employee travel advance and expense claim process. Consolidates multip
 
 **Screenshots:**
 
+<p align="center"><i>For normal users, the dashboard displays only the Employee section and Open Settlement Records. The remaining two management cards are hidden and are visible only to management users.</i></p>
 <p align="center">
   <img src="screeshots/travel1.png" width="600" alt="MTD Dashboard" />
 </p>
-
+<p align="center"><i>After logging in, the user can view only their own travel requests. They select a travel request, and any saved expense breakup appears as a draft below. The approvers are automatically loaded based on the user's login location and the system setup.</i></p>
 <p align="center">
   <img src="screeshots/travel2.png" width="600" alt="MTD Directory Search" />
 </p>
-
+<p align="center"><i>When the user selects a travel request and clicks OK, the selected requests are displayed in an interactive travel model with key details and an Open Breakup button.</i></p>
 <p align="center">
   <img src="screeshots/travel3.png" width="600" alt="MTD Directory Search" />
 </p>
+<p align="center"><i>The travel advance for the selected request is displayed at the top. As the user enters expenses and selects the entitlement type, the system automatically calculates the total expense and the remaining balance (Advance - Expenses).
+
+Users can also attach supporting documents. Based on the logged-in user's designation, the boarding and lodging entitlement is automatically applied. The user cannot enter an amount higher than the allowed limit. A date range is provided so multiple days of travel can be covered easily.</i></p>
 <p align="center">
   <img src="screeshots/travel4.png" width="600" alt="MTD Directory Search" />
 </p>
-
+<p align="center"><i>When the user saves the page, it becomes read-only for them. It remains fully editable for the Super User. For each assigned approver, only their designated section is editable, while the rest of the form is read-only. Approvers can add their comments and forward the request to the next approval level.</i></p>
 <p align="center">
   <img src="screeshots/travel5.png" width="600" alt="MTD Directory Search" />
 </p>
@@ -51,22 +55,23 @@ Digitized employee travel advance and expense claim process. Consolidates multip
 Centralized, Oracle HRMS-integrated employee extension management system. Auto-detects new, transferred, and inactive employees, handles region-based extension allocation, and provides a public directory with real-time search.
 
 **Screenshots:**
-
+<p align="center"><i>A real-time search is available at the top, allowing users to search by employee name. Additional filters are also provided. The list below displays all records, including extension numbers and other details. Extension numbers are assigned by the MIS user, and only those assigned extensions are shown.</i></p>
 <p align="center">
   <img src="screeshots/mtd1.png" width="600" alt="Travel Expense Form" />
 </p>
-
+<p align="center"><i>This module is for MIS users to assign new or spare extensions to new and transferred employees. Multiple extensions can be assigned to a single employee, and shared extensions are also supported. Employee data is synced from the HRMS and updates automatically in real time.</i></p>
 <p align="center">
   <img src="screeshots/mtd2.png" width="600" alt="Settlement Approval Flow" />
 </p>
-
+<p align="center"><i>This module is used to manually add extension details for physical locations such as check posts, guard rooms, and other non-employee locations.</i></p>
 <p align="center">
   <img src="screeshots/mtd3.png" width="600" alt="Settlement Approval Flow" />
 </p>
-
+<p align="center"><i>This module maintains the extension assignment history. It tracks which employee was previously assigned each extension and records all assignment changes. A search option is available at the top, with matching records displayed below.</i></p>
 <p align="center">
   <img src="screeshots/mtd4.png" width="600" alt="Settlement Approval Flow" />
 </p>
+<p align="center"><i>This module is used to add new extensions by region. The list below shows all extensions and their current status. When an employee leaves, their extension is automatically updated to Spare and becomes available for reassignment.</i></p>
 <p align="center">
   <img src="screeshots/mtd5.png" width="600" alt="Settlement Approval Flow" />
 </p>
