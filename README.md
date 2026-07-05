@@ -19,9 +19,9 @@
 
 ## 🏗️ Systems I've Built
 
-### 1. Master Telephone Directory (MTD) System
+### 1. Travel Expense Settlement System
 
-Centralized, Oracle HRMS-integrated employee extension management system. Auto-detects new, transferred, and inactive employees, handles region-based extension allocation, and provides a public directory with real-time search.
+Digitized employee travel advance and expense claim process. Consolidates multiple travel requests into a single settlement, auto-calculates entitlements from Oracle HRMS, and removes manual file uploads via an in-system breakup form.
 
 **Screenshots:**
 
@@ -46,9 +46,9 @@ Centralized, Oracle HRMS-integrated employee extension management system. Auto-d
 
 ---
 
-### 2. Travel Expense Settlement System
+### 2. Master Telephone Directory (MTD) System
 
-Digitized employee travel advance and expense claim process. Consolidates multiple travel requests into a single settlement, auto-calculates entitlements from Oracle HRMS, and removes manual file uploads via an in-system breakup form.
+Centralized, Oracle HRMS-integrated employee extension management system. Auto-detects new, transferred, and inactive employees, handles region-based extension allocation, and provides a public directory with real-time search.
 
 **Screenshots:**
 
