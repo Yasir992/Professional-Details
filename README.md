@@ -53,11 +53,22 @@ Centralized, Oracle HRMS-integrated employee extension management system. Auto-d
 **Screenshots:**
 
 <p align="center">
-  <img src="screenshots/travel-1.png" width="600" alt="Travel Expense Form" />
+  <img src="screeshots/mtd1.png" width="600" alt="Travel Expense Form" />
 </p>
 
 <p align="center">
-  <img src="screenshots/travel-2.png" width="600" alt="Settlement Approval Flow" />
+  <img src="screeshots/mtd2.png" width="600" alt="Settlement Approval Flow" />
+</p>
+
+<p align="center">
+  <img src="screeshots/mtd3.png" width="600" alt="Settlement Approval Flow" />
+</p>
+
+<p align="center">
+  <img src="screeshots/mtd4.png" width="600" alt="Settlement Approval Flow" />
+</p>
+<p align="center">
+  <img src="screeshots/mtd5.png" width="600" alt="Settlement Approval Flow" />
 </p>
 
 ---
