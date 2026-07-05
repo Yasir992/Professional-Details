@@ -26,11 +26,22 @@ Centralized, Oracle HRMS-integrated employee extension management system. Auto-d
 **Screenshots:**
 
 <p align="center">
-  <img src="screenshots/mtd-1.png" width="600" alt="MTD Dashboard" />
+  <img src="screeshots/travel1.png" width="600" alt="MTD Dashboard" />
 </p>
 
 <p align="center">
-  <img src="screenshots/mtd-2.png" width="600" alt="MTD Directory Search" />
+  <img src="screeshots/travel2.png" width="600" alt="MTD Directory Search" />
+</p>
+
+<p align="center">
+  <img src="screeshots/travel3.png" width="600" alt="MTD Directory Search" />
+</p>
+<p align="center">
+  <img src="screeshots/travel4.png" width="600" alt="MTD Directory Search" />
+</p>
+
+<p align="center">
+  <img src="screeshots/travel5.png" width="600" alt="MTD Directory Search" />
 </p>
 
 ---
